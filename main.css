@@ -1,11 +1,28 @@
+body{background-color: cornflowerblue;}
+
 form{
-    border: 2px solid black;
-    background: chartreuse;
-    margin-top: 45vh;
-}
+    
+    background-color: lightblue;
+    margin-top: 10%;
+    margin: 4px auto;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    width: 220px;
+    height: 350px;
+    position: fixed;
+    margin-top: -175px;
+    margin-left: -150px;
+    padding: 10px; }
+
 
 input{
-    display: block;
+    align-items: center;
+    display: block 
     /* margin: auto; */
-    margin: 4px auto;
+    margin; margin-block: auto;
 }
+h1{ border: lightskyblue;
+text-align: center;
+text-decoration-color: black;
+position: center;}
